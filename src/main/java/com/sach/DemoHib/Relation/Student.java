@@ -22,4 +22,4 @@ public class Student {
 	public String toString() {
 		return "Student [rollNo=" + rollNo + ", Lname=" + Lname + ", name=" + name + ", lap=" + lap + "]";
 	}
-} 
+}
